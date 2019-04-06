@@ -2,7 +2,8 @@
 
 ​	<center> 实验题目：数据通路与状态机&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期：2019年3月29日 </center>
 
-​	- ##### 实验目的
+
+- ##### 实验目的
 
   - 设计排序器：应用数据通路与状态机并调用ALU实现四个四位无符号数的排序，仿真并下载
 
