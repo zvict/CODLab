@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module DIV(x,y,q,r,rst,clk,error,done);
     
     input   [3:0] x,y;
