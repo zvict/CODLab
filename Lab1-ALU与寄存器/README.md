@@ -49,21 +49,7 @@
       
           end     
       endmodule
-      ```
-
-    - 仿真截图
-
-      ![alu (2)](C:\Users\X1 Yoga\OneDrive\Pictures\屏幕快照\COD-lab1\alu (2).png)
-
-    - 电路图
-
-      ![QQ截图20190329164612](C:\Users\X1 Yoga\OneDrive\Pictures\屏幕快照\COD-lab1\QQ截图20190329164612.png)
-
-    - 下载
-
-      ![IMG_20190322_172026](G:\Tencent\QQ\MyData\506656740\FileRecv\MobileFile\IMG_20190322_172026.jpg)
-
-      
+      ```      
 
   - 斐波那契数列
 
@@ -102,21 +88,7 @@
            end 
          
       endmodule // fib
-      ```
-
-    - 仿真截图
-
-      ![2019-03-29 (3)](C:\Users\X1 Yoga\OneDrive\Pictures\屏幕快照\COD-lab1\2019-03-29 (3).png)
-
-    - 电路图
-
-      ![QQ截图20190329164710](C:\Users\X1 Yoga\OneDrive\Pictures\屏幕快照\COD-lab1\QQ截图20190329164710.png)
-
-    - 下载
-
-      ![IMG_20190322_164624](G:\Tencent\QQ\MyData\506656740\FileRecv\MobileFile\IMG_20190322_164624.jpg)
-
-      
+      ```    
 
   - 累加器（ACC）
 
@@ -157,13 +129,7 @@
           end
                
       endmodule
-      ```
-
-    - 仿真
-
-      ![2019-03-29 (2)](C:\Users\X1 Yoga\OneDrive\Pictures\屏幕快照\COD-lab1\2019-03-29 (2).png)
-
-      
+      ```      
 
 - ##### 实验总结
 
