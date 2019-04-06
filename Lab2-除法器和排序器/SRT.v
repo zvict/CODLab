@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module SRT(clk,rst,done,x0,x1,x2,x3,s0,s1,s2,s3);
     input   [3:0] x0,x1,x2,x3;
     input   clk,rst;
